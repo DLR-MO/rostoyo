@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: mituoyo_ros2
+Upstream-Contact: Marc Bestmann <marc.bestmann@dlr.de>
+Source: https://github.com/DLR-MO/rostoyo
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...

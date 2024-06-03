@@ -1,0 +1,3 @@
+[submodule "pytuyo"]
+	path = pytuyo
+	url = https://github.com/rabryan/pytuyo.git
